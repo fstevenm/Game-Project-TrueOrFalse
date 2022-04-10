@@ -6,7 +6,7 @@ This game is a game about right or wrong for 30 seconds in Indonesian. The exist
 
 There are two different program code files. The first, we just have to choose true or false by clicking the 'check' or 'cross'. The second one is a game with blank boxes to type in true or false answers. You can choose which one to use to play. I prefer the first one.
 
-You can use your own music (.wav) to replace 'main.wav' in the program code in def main(). I can't upload the music I'm using because the file is too big.
+You can use your own music (.wav) to replace 'main.wav' in the program code in def main(). I can't upload my 'main.wav' music because the file is too big.
    
 	def bermain():
    
