@@ -6,6 +6,14 @@ This game is a game about right or wrong for 30 seconds in Indonesian. The exist
 
 There are two different program code files. The first, we just have to choose true or false by clicking the 'check' or 'cross'. The second one is a game with blank boxes to type in true or false answers. You can choose which one to use to play. I prefer the first one.
 
+You can use your own music (.wav) to replace 'main.wav' in the program code in def main(). I can't upload the music I'm using because the file is too big.
+   
+	def bermain():
+   
+       pygame.mixer.music.load('main.wav')
+       
+       pygame.mixer.music.play(10)
+
 #### This is the initial view of this game (the first one):
 ![image](https://user-images.githubusercontent.com/99526319/162600384-1ff39cd8-49d6-4db6-8bbd-b6f068d5184a.png)
 
